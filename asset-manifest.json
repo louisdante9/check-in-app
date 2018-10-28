@@ -1,14 +1,14 @@
 {
-  "main.css": "/firebase_react/static/css/main.6e48db1c.chunk.css",
-  "main.js": "/firebase_react/static/js/main.d33856c7.chunk.js",
-  "main.js.map": "/firebase_react/static/js/main.d33856c7.chunk.js.map",
-  "static/js/1.c462e28c.chunk.js": "/firebase_react/static/js/1.c462e28c.chunk.js",
-  "static/js/1.c462e28c.chunk.js.map": "/firebase_react/static/js/1.c462e28c.chunk.js.map",
-  "runtime~main.js": "/firebase_react/static/js/runtime~main.358c1c12.js",
-  "runtime~main.js.map": "/firebase_react/static/js/runtime~main.358c1c12.js.map",
-  "static/media/logo.svg": "/firebase_react/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6e48db1c.chunk.css.map": "/firebase_react/static/css/main.6e48db1c.chunk.css.map",
-  "index.html": "/firebase_react/index.html",
-  "precache-manifest.5e2ede52cc904168ba2c70e5bb736374.js": "/firebase_react/precache-manifest.5e2ede52cc904168ba2c70e5bb736374.js",
-  "service-worker.js": "/firebase_react/service-worker.js"
+  "main.css": "/check-in-app/static/css/main.6e48db1c.chunk.css",
+  "main.js": "/check-in-app/static/js/main.a78e3ae8.chunk.js",
+  "main.js.map": "/check-in-app/static/js/main.a78e3ae8.chunk.js.map",
+  "static/js/1.c462e28c.chunk.js": "/check-in-app/static/js/1.c462e28c.chunk.js",
+  "static/js/1.c462e28c.chunk.js.map": "/check-in-app/static/js/1.c462e28c.chunk.js.map",
+  "runtime~main.js": "/check-in-app/static/js/runtime~main.d3aeaa1a.js",
+  "runtime~main.js.map": "/check-in-app/static/js/runtime~main.d3aeaa1a.js.map",
+  "static/media/logo.svg": "/check-in-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6e48db1c.chunk.css.map": "/check-in-app/static/css/main.6e48db1c.chunk.css.map",
+  "index.html": "/check-in-app/index.html",
+  "precache-manifest.b0cad006aa7c714c2131ea8d0be6695a.js": "/check-in-app/precache-manifest.b0cad006aa7c714c2131ea8d0be6695a.js",
+  "service-worker.js": "/check-in-app/service-worker.js"
 }
